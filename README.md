@@ -31,6 +31,15 @@ No âmbito profissional, atuei como Sales Development Representative (SDR) na em
 
 ## 📂 Projetos
 
+### 📌 EnergyStep – Piso Gerador de Energia
+Projeto de pesquisa e desenvolvimento de um sistema capaz de converter a energia mecânica gerada por passos humanos em energia elétrica, utilizando princípios de indução eletromagnética com bobinas e ímãs.
+
+(Projeto desenvolvido na faculdade e atualmente em andamento como projeto de Iniciação Científica)
+
+🔗 Repositório: (em breve)
+
+---
+
 ### 📌 Relógio Digital com Circuitos Lógicos
 Projeto de eletrônica digital desenvolvido com protoboard, circuitos integrados e displays de 7 segmentos, aplicando conceitos de circuitos sequenciais, contadores e temporização.
 
@@ -51,15 +60,6 @@ Modelagem e implementação de um banco de dados completo para um sistema de ven
 
 ### 📌 SAPEX – Sistema de Gestão Energética
 Interface web e sistema inteligente de gestão energética para edificações.
-
-🔗 Repositório: (em breve)
-
----
-
-### 📌 EnergyStep – Piso Gerador de Energia
-Projeto de pesquisa e desenvolvimento de um sistema capaz de converter a energia mecânica gerada por passos humanos em energia elétrica, utilizando princípios de indução eletromagnética com bobinas e ímãs.
-
-(Projeto desenvolvido na faculdade e atualmente em andamento como projeto de Iniciação Científica)
 
 🔗 Repositório: (em breve)
 
