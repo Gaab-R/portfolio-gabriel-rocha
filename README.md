@@ -53,6 +53,15 @@ Interface web e sistema inteligente de gestão energética para edificações.
 
 ---
 
+### 📌 EnergyStep – Piso Gerador de Energia
+Projeto de pesquisa e desenvolvimento de um sistema capaz de converter a energia mecânica gerada por passos humanos em energia elétrica, utilizando princípios de indução eletromagnética com bobinas e ímãs.
+
+*(Projeto desenvolvido na faculdade e atualmente em andamento como projeto de Iniciação Científica)*
+
+🔗 Repositório: (em breve)
+
+---
+
 ## 📫 Contato
 - LinkedIn: https://br.linkedin.com/in/gabriel-rocha-2a0566261  
 - Email: gabriel.r.aparecido@gmail.com
