@@ -32,10 +32,13 @@ No âmbito profissional, atuei como Sales Development Representative (SDR) na em
 ## 📂 Projetos
 
 ### 📌 Relógio Digital com Circuitos Lógicos
-Projeto de eletrônica digital desenvolvido com protoboard, circuitos integrados e displays de 7 segmentos.  
-(Projeto desenvolvido na faculdade)
+Projeto de eletrônica digital desenvolvido com protoboard, circuitos integrados e displays de 7 segmentos, aplicando conceitos de circuitos sequenciais, contadores e temporização.
 
-🔗 Repositório: (em breve)
+🎥 Vídeo demonstrativo  
+🧪 Simulação no Tinkercad  
+📄 Documentação técnica completa
+
+🔗 Repositório: https://github.com/Gaab-R/relogio-digital-eletronica
 
 ---
 
